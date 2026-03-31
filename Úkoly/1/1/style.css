@@ -1,0 +1,21 @@
+p {
+    color: rgb(0, 0, 0);
+    font: size 20px;
+    text-align: center;
+    margin-bottom: 3%;
+}
+body {
+    background-color: rgb(219, 196, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 210mm;
+    height: 148mm;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(1, 50, 90);
+    font-size: 45px;
+    margin-bottom: 0%;
+    
+}
