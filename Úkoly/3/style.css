@@ -1,0 +1,49 @@
+h1 {
+    color: rgb(23, 75, 2);
+    font-size: 30px;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.nula {
+    
+    border: 3px solid #0049cf;
+    border-radius: 15px; 
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    background-color: rgb(240, 248, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     text-align: center;
+
+}
+.prvni {
+    border: 3px solid #0049cf;
+    border-radius: 15px; 
+    margin: 20px auto;
+    background-color: rgb(240, 248, 255);
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.druhy {
+    border: 3px solid #0049cf;
+    border-radius: 15px; 
+    margin: 20px auto;
+    background-color: rgb(240, 248, 255);
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.treti {
+    border: 3px solid #0049cf;
+    border-radius: 15px; 
+    margin: 20px auto;
+    background-color: rgb(240, 248, 255);
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}

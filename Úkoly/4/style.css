@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(to right, #afbdd6);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card {
+    width: 350px;
+    margin: 100px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(red, green, blue, alpha);
+   
+    }
+   
+.avatar {
+    width: 100px;
+    height: 100px;
+    background: #0049cf;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.profese {
+    color: #1f2124;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.text {
+    color: #1f2124;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.skills span {
+    background: #7aa0e7;
+    padding: 8px 12px;
+    border-radius: 10px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 18px;
+
+}
+button {
+    margin-top: 20px;
+    padding: 12px 25px;
+    border-radius: 10px;
+    border: #0049cf;
+    background: linear-gradient(to right, #7ca5e4);
+    color: white
+
+    }
+
+
+
+
