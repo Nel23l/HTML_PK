@@ -1,0 +1,47 @@
+.horni-text{
+    color: rgb(247, 239, 239);
+    font: size 20px;
+    text-align: center;
+    margin-bottom: 3%;
+    text-align: center;
+}
+.stredovy-text{
+    color: rgb(247, 239, 239);
+    font: size 20px;
+    padding: 5px;
+}
+.stredovy-text{
+    color: rgb(247, 239, 239);
+    font: size 20px;
+    padding: 5px;
+}
+.spodni-text{
+    color: rgb(247, 239, 239);
+    font: size 20px;
+    text-align: center;
+    margin-bottom: 3%;
+    text-align: center;
+    
+    }
+body {
+    background-color: rgb(132, 129, 136);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 210mm;
+    height: 148mm;
+   
+}
+
+h1 {
+    color: rgb(234, 243, 112);
+    font-size: 45px;
+    margin-bottom: 0%;
+    margin: 50px auto;
+    text-align: center;
+    
+}
+div {
+    background-color: rgb(96, 26, 226);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
