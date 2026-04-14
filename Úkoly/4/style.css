@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to right, #afbdd6);
+    background: linear-gradient(to right, #e2d6ff);
     font-family: Arial, Helvetica, sans-serif;
 }
 .card {
@@ -9,14 +9,13 @@ body {
     padding: 30px;
     border-radius: 20px;
     text-align: center;
-    box-shadow: 0 10px 25px rgba(red, green, blue, alpha);
-   
+    box-shadow: 0 10px 25px rgba;
     }
    
 .avatar {
     width: 100px;
     height: 100px;
-    background: #0049cf;
+    background: #6002ad;
     color: white;
     border-radius: 50%;
     display: flex;
@@ -32,27 +31,26 @@ body {
     margin-bottom: 20px;
 }
 .text {
-    color: #1f2124;
+    color: #ffffff;
     font-size: 18px;
     margin-bottom: 20px;
 }
 .skills span {
-    background: #7aa0e7;
+    background: #bb93e9;
     padding: 8px 12px;
     border-radius: 10px;
     margin: 5px;
     display: inline-block;
     font-size: 18px;
-
 }
+
 button {
     margin-top: 20px;
     padding: 12px 25px;
     border-radius: 10px;
-    border: #0049cf;
-    background: linear-gradient(to right, #7ca5e4);
+    border: #6a4b9c;
+    background: linear-gradient(to right, #7d5dc9);
     color: white
-
     }
 
 
